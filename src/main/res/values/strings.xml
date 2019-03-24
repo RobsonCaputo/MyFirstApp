@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">BlocoDeNotas</string>
+    <string name="edit_message">Digite o Usuário</string>
+    <string name="button_send">Enviar</string>
+    <string name="btncriar">Criar</string>
+    <string name="imputnota">Digite sua anotação</string>
+</resources>
